@@ -835,6 +835,7 @@ main {
  */
 
 .skills-title { margin-bottom: 20px; }
+.skills-title { margin-top: 20px; }
 
 .skills-list { padding: 20px; }
 
@@ -866,6 +867,21 @@ main {
   height: 100%;
   border-radius: inherit;
 }
+
+.skills-item h5, .skills-item p {
+    color: white;
+  }
+
+.skills-item h5 {
+    font-weight: bold;
+    font-size: 1.2em;  
+  }
+
+.skills-item p {
+    color: var(--light-gray);
+    font-weight: var(--fw-300);
+    line-height: 1.6;   
+  }
 
 
 
