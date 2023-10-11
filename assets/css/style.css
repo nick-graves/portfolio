@@ -872,10 +872,7 @@ main {
     color: white;
   }
 
-.skills-item h5 {
-    font-weight: bold;
-    font-size: 1.2em;  
-  }
+
 
 .skills-item p {
     color: var(--light-gray);
